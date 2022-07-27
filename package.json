@@ -12,5 +12,9 @@
     "NodeJs"
   ],
   "author": "Gustavo Chura",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
 }
