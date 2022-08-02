@@ -15,4 +15,4 @@ npm start
 
 ## Contruido con 🛠️
 * [Express](https://expressjs.com/)
-* [hbs](https://handlebarsjs.com/)
+* [HBS - Express](https://github.com/pillarjs/hbs)
