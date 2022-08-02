@@ -1,12 +1,18 @@
-# Create Webserver
+# Create Webserver using Express
+Se creo una aplicacion web con Express.js
+
+<img src="public/landingPage.png">
+
+## Instalación
 
 ```bash
-npm install
+npm install o yarn install 
 ```
-```bash
-npm yarn
-```
-
+Ejecutar
 ```bash
 npm start
 ```
+
+## Contruido con 🛠️
+* [Express](https://expressjs.com/)
+* [hbs](https://handlebarsjs.com/)
